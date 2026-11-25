@@ -1,0 +1,23 @@
+div{
+    padding: 20px 20px 20px 20px;
+  font-family: 'Times New Roman';
+  text-align: center;
+  background-color: rgb(241, 201, 208);
+}
+h1{
+    font-size: 50px;
+}
+div dt{
+    text-align:center;
+    font-weight: bold;
+    padding: 10px;
+    font-size: 30px;
+    color: rgb(230, 0, 142);
+    text-transform: capitalize;
+}
+div dd{
+    text-align: justify;
+    color: rgb(2, 46, 46);
+    font-size: 20px;
+
+}
